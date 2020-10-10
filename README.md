@@ -1,4 +1,9 @@
-# Installation
+# Haskelloids
+A reproduction of the Atari 1979 classic "Asteroids"
+
+![Haskelloids](screenshots/Haskelloids.gif?raw=true)
+
+## Installation
 
 1. Download and install stack from <https://www.haskellstack.org>.
 
