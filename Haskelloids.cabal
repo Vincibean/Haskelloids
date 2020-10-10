@@ -75,7 +75,7 @@ Executable Haskelloids
     matrix      == 0.3.*,
     vector      == 0.12.*,
     HGL         == 3.*,
-    Yampa       == 0.10.*
+    Yampa       == 0.13.*
 
   -- Modules not exported by this package.
   -- Other-modules:       
